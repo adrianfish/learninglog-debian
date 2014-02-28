@@ -1,0 +1,5 @@
+learninglog (2.10-SNAPSHOT-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Adrian Fish <a.fish@lancaster.ac.uk>  Fri, 28 Feb 2014 12:52:06 +0000
